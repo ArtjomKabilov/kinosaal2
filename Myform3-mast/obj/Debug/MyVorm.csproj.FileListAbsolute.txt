@@ -1,0 +1,9 @@
+C:\Users\opilane\source\repos\Myform3-mast\bin\Debug\MyVorm.exe.config
+C:\Users\opilane\source\repos\Myform3-mast\bin\Debug\MyVorm.exe
+C:\Users\opilane\source\repos\Myform3-mast\bin\Debug\MyVorm.pdb
+C:\Users\opilane\source\repos\Myform3-mast\obj\Debug\MyVorm.Properties.Resources.resources
+C:\Users\opilane\source\repos\Myform3-mast\obj\Debug\MyVorm.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Myform3-mast\obj\Debug\MyVorm.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Myform3-mast\obj\Debug\MyVorm.exe
+C:\Users\opilane\source\repos\Myform3-mast\obj\Debug\MyVorm.pdb
+C:\Users\opilane\source\repos\Myform3-mast\obj\Debug\MyVorm.csprojAssemblyReference.cache
